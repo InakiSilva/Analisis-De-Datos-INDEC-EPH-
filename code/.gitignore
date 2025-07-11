@@ -1,0 +1,6 @@
+data_out/
+respaldo/
+src/__pycache__/
+venv/
+.venv/
+.vscode/
