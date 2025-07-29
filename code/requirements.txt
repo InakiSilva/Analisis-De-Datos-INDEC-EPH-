@@ -1,6 +1,6 @@
 streamlit==1.45.0
 notebook==7.4.2
-pandas== 2.3.0
+pandas==2.3.0
 matplotlib==3.10.3
 folium==0.20.0
 streamlit-folium==0.25.0
